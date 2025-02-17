@@ -6,13 +6,13 @@ class CheckNumber:
         This class is used to check the given number is positive, negative or zero
     """
     def __init__(self,num):
-        
+
         self.num = num
 
     def validate(self):
 
         """
-           This function is retur the number is positive, negative or zero.
+           This function is return the number is positive, negative or zero.
         """
         if self.num > 0:
             return f"Given number {self.num} is Positive."
