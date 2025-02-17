@@ -1,3 +1,4 @@
+
 # Write a Python program to check if triangle is valida or not based on given angles using Classes and Objects
 
 class ValidTriangle:
