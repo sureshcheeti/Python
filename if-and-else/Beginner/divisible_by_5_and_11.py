@@ -1,3 +1,4 @@
+
 # Write a Python program to check if a number is divisible by both (5 and 11) or not using Classes and Objects
 
 class Divisible:

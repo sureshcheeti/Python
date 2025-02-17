@@ -1,3 +1,4 @@
+
 # Write a Python program to check if a number is positive, negative, or zero using Classes and Objects
 
 class CheckNumber:

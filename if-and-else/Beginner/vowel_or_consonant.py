@@ -1,3 +1,4 @@
+
 # Write a Python program to check if gievn character is vowel or consonant using Classes and Objects
 
 class VowelOrConsoant:

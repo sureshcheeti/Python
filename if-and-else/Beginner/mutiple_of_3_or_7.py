@@ -1,3 +1,4 @@
+
 # Write a Python program to check if given number is multiple of 3 or 7 using Classes and Objects
 
 class Multiple:
